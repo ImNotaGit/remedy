@@ -1,3 +1,8 @@
+Name: Toggle S
+Description: Add or remove s()
+Binding: toggle_s
+Interactive: false
+
 Name: Align
 Description: Align <- in selection
 Binding: align_arrow
