@@ -1,3 +1,8 @@
+Name: Remoter Send
+Description: Send to remoter
+Binding: remoter_send
+Interactive: false
+
 Name: Toggle S
 Description: Add or remove s()
 Binding: toggle_s
