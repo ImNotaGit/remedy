@@ -1,6 +1,21 @@
+Name: Remoter Get
+Description: Get from remoter
+Binding: remoter_get
+Interactive: false
+
+Name: Remoter Get Console
+Description: Get from remoter via console
+Binding: remoter_get_console
+Interactive: false
+
 Name: Remoter Send
 Description: Send to remoter
 Binding: remoter_send
+Interactive: false
+
+Name: Remoter Send Console
+Description: Send to remoter via console
+Binding: remoter_send_console
 Interactive: false
 
 Name: Toggle S
